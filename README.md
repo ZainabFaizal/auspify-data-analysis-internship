@@ -1,8 +1,13 @@
 # Auspify Technologies – Data Analysis Using Python Internship
 
-**Intern:** Mohamed Faizal Fathima Zainab
+**Intern:** Mohamed Faizal Fathima Zainab 
+
+**Offer Letter ID:** AT/INT/2037034
+
 **Program:** 4-Week Data Analysis Using Python Internship
+
 **Dataset:** Netflix titles dataset (8,790 records, 10 columns)
+
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Tasks Completed
