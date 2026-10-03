@@ -12,7 +12,7 @@
 | 1 | Netflix Data Cleaning & Preparation | Easy | Completed | [Task1](./Task1) |
 | 2 | Content Type Analysis Dashboard | Easy | Completed | [Task2](./Task2) |
 | 3 | Country-Wise Netflix Content Analysis | Medium | Completed | [Task3](./Task3) |
-| 4 | Trend Analysis by Release Year | Medium | In progress | Task4 |
+| 4 | Trend Analysis by Release Year | Medium | Completed | [Task4](./Task4) |
 
 ## Repository Structure
 
@@ -52,5 +52,9 @@ jupyter notebook Task1_Netflix_Data_Cleaning.ipynb
 Task 1 demo: PASTE YOUR VIDEO LINK HERE
 
 #Auspify #AuspifyTechnologies #AuspifyInternship #AuspifyProjects
+
+
+
+
 
 
