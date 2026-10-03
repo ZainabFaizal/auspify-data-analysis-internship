@@ -32,6 +32,8 @@ auspify-data-analysis-internship/
 ├── Task2/
 ├── Task3/
 └── Task4/
+├── Report/
+│   └── Auspify_Data_Analysis_Internship_Report.docx
 ```
 
 ## Task 1 – Data Cleaning Summary
