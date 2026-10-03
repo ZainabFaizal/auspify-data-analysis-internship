@@ -54,7 +54,8 @@ jupyter notebook Task1_Netflix_Data_Cleaning.ipynb
 
 ## Demo Video
 
-https://drive.google.com/drive/folders/1N88aUN6K99M7GYTrYAX_5sY-dXZypaES?usp=drive_link
+Demo videos for Tasks 1 to 4: https://drive.google.com/drive/folders/1N88aUN6K99M7GYTrYAX_5sY-dXZypaES?usp=drive_link
+
 
 #Auspify #AuspifyTechnologies #AuspifyInternship #AuspifyProjects
 
